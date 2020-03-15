@@ -1,0 +1,13 @@
+Dear Dr docnam,
+
+Can you please arrange for a repeat prescription for the following patient of their long-term medication?
+
+Full Name: name last
+DOB: dateob
+NHS Number: nhsnum
+
+The patient has remaindays days supply left.
+
+Thank you!
+
+This is an automated email sent from My Little Doctor.

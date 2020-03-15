@@ -1,0 +1,11 @@
+Dear Dr docnam,
+
+The following patient is suffering from condition. Could you reply to this email in order to address their query?
+
+Full Name: name last
+DOB: dateob
+NHS Number: nhsnum
+
+Thank you!
+
+This is an automated email sent from My Little Doctor.

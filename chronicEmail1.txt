@@ -1,0 +1,13 @@
+Dear Dr docnam,
+
+The following patient has condition, in spite of regular medication:
+
+Full Name: name last
+DOB: dateob
+Phone Number: telephone
+
+Could you please organise a telephone consultation for further management?
+
+Thank you!
+
+This is an automated email sent from My Little Doctor.
