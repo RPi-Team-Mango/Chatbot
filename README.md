@@ -33,6 +33,7 @@ https://www.instructables.com/id/Raspberry-Pi-Touchscreen-Setup/
 These can be found at the above-mentioned CamJam EduKit worksheet.
 
 2. Setting up mailto links
+
 A core part of My Little Doctor's functionality is the ability to send emails. In order to ensure this works appropriately, go to Chromium on the Pi. Click Settings > Privacy and Security > Site Settings and turn Handlers to on. 
 Then, log into a Gmail account - a prompt should now ask you if you wish to allow Gmail to open all email links - allow this.
 
